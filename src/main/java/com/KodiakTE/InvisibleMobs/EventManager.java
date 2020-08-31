@@ -1,4 +1,4 @@
-package com.ThishExercise.InvisibleMobs;
+package com.KodiakTE.InvisibleMobs;
 import net.minecraft.client.settings.KeyBinding;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;
