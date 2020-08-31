@@ -26,7 +26,7 @@ logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
 credits="ya boi" #optional
 # A text field displayed in the mod UI
-authors="Thigh Exercise" #optional
+authors="KodiakTE" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Mobs turn into ghosts, and you can only see them if you hold a ghast tear.
