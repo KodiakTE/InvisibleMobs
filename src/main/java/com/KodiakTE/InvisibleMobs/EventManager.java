@@ -17,7 +17,6 @@ import net.minecraft.client.Minecraft;
 import static org.lwjgl.glfw.GLFW.GLFW_KEY_J;
 import static org.lwjgl.glfw.GLFW.GLFW_KEY_K;
 
-import static com.ThishExercise.InvisibleMobs.InvisibleMobs.*;
 import static net.minecraft.item.Items.GHAST_TEAR;
 
 @Mod.EventBusSubscriber(modid = "invisiblemobs", bus = Mod.EventBusSubscriber.Bus.FORGE)
