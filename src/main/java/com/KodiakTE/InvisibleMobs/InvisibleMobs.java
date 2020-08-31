@@ -1,4 +1,4 @@
-package com.ThishExercise.InvisibleMobs;
+package com.KodiakTE.InvisibleMobs;
 
 import net.minecraft.block.Blocks;
 import net.minecraftforge.client.settings.KeyBindingMap;
